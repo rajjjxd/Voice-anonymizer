@@ -1,0 +1,8 @@
+torch
+torchaudio
+gradio==4.19.2
+numpy
+librosa
+soundfile
+pydub
+ffmpeg-python
